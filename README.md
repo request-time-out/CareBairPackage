@@ -6,7 +6,7 @@ Compilation of quality-of-life plugins.
 * 0Harmony
 * BepInEx
 * ConfigurationManager
-* XUnity.AutoTranslator __`OPTIONAL`
+* XUnity.AutoTranslator `OPTIONAL`
 
 ### Installment
 * Extract the `BepInEx` folder in the game directory.
