@@ -3,7 +3,6 @@ Compilation of quality-of-life plugins.
 
 ### Requirements
 * AI-Syoujyo Update 1206
-* 0Harmony
 * BepInEx
 * ConfigurationManager
 * XUnity.AutoTranslator `[OPTIONAL]`
