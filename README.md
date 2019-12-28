@@ -1,5 +1,5 @@
 # Care Bair Package
-Compilation of quality-of-life plugins.
+Compilation of quality-of-life plugins for AI-Syoujyo.
 
 ### Requirements
 * AI-Syoujyo Update 1206
